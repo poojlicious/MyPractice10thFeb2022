@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 8AEA-3DBC
-
- Directory of D:\DevOps training\MyPractice
-
-10-02-2022  15:31    <DIR>          .
-10-02-2022  15:27    <DIR>          ..
-10-02-2022  15:31                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  515,279,294,464 bytes free
+made some changes
